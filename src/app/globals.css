@@ -114,3 +114,10 @@ body {
     font-size: 1.5rem;
   }
 }
+
+/* 入力要素のテキスト色を黒で統一 */
+input,
+textarea,
+select {
+  color: #000 !important;
+}
